@@ -1,4 +1,4 @@
-## Olá, Bem Vindo ao me Github, me siga sou o Vinicius, muito prazer =)
+## Olá, bem vindo ao meu Github, me siga sou o Vinicius, muito prazer =)
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/viniciusmonteiroarjonas)](https://github.com/viniciusmonteiroarjonas)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/viniciusmonteiroarjonas/)](https://www.linkedin.com/in/viniciusmonteiroarjonas/)
