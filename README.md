@@ -1,12 +1,10 @@
-<p align="center">
-  <a href="#">
-    <img align="center" width="280" src="signature.png" />
-  </a>
-  <a href="#">
-    <img align="center" width="510" src="banner.gif" />
-  </a>
-</p>
+# Olá, Sou o Vinicius :D
 
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/viniciusmonteiroarjonas)](https://github.com/viniciusmonteiroarjonas)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/viniciusmonteiroarjonas/)](https://www.linkedin.com/in/viniciusmonteiroarjonas/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/fagnerpsantos)](https://twitter.com/arjonasmonteiro)
+
+# Resumo meu perfil Github
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
@@ -23,14 +21,13 @@
   </a>
 </p>
 
-## Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+## Sobre Mim <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-### Abstract
 
-- 👨‍💻 I'm currently working full-time at **Cognizant**.
-- 🌱 Learning more about and studying: **NodeJS, Angular and AWS**.
+- 👨‍💻 Atualmente estou trablhando em tempo integral **Cognizant**.
+- 🌱 Buscando aprender e conhecer **NodeJS, Angular,AWS, DevOps**.
 
-### Languages and Tools
+### Linguagens e ferramentas que venho atuando
 
 <br/>
 
@@ -136,7 +133,7 @@
   </a>
 </p>
 
-### Find me around the web 🌎:
+### Aonde me encontrar na Web 🌎:
 
-- 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/william-queiroz/">LinkedIn</a>.
-- 🐦 Following me on <a href="https://twitter.com/wnqueiroz/">Twitter</a>.
+- 💼 Conectando e compartilhando atualizações profissionais no <a href="https://www.linkedin.com/in/william-queiroz/">LinkedIn</a>.
+- 🐦 Me siga no <a href="https://twitter.com/wnqueiroz/">Twitter</a>.
