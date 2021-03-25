@@ -23,8 +23,8 @@
 ## Sobre Mim <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 
-- 👨‍💻 Atualmente estou trablhando em tempo integral **Cognizant**.
-- 🌱 Buscando aprender e conhecer **NodeJS, Angular,AWS, DevOps**.
+- 👨‍💻 Atualmente estou trabalhando em tempo integral na **Everis NTT DATA**.
+- 🌱 Buscando aprender e conhecer **AWS, Cloud, DevOps**.
 
 ### Linguagens e ferramentas que venho atuando
 
