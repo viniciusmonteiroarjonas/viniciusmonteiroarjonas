@@ -24,7 +24,7 @@
 
 
 - 👨‍💻 Atualmente estou trabalhando em tempo integral na **Everis NTT DATA**.
-- 🌱 Buscando aprender e conhecer **AWS, Cloud, DevOps**.
+- 🌱 Buscando aprender cada dia mais **AWS, Cloud, DevOps, Camunda, Kafka, Rabbitmq**.
 
 ### Linguagens e ferramentas que venho atuando
 
@@ -106,7 +106,7 @@
       height="40"
     />
   </a>
-  <a href="https://reactjs.org/" target="_blank">
+  <a href="https://angular.io/" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg"
       alt="angular"
@@ -118,6 +118,38 @@
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
       alt="typescript"
+      width="40"
+      height="40"
+    />
+  </a>
+   <a href="https://www.java.com/pt-BR/" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"
+      alt="java"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://kafka.apache.org/" target="_blank">
+    <img
+      src="https://avatars.githubusercontent.com/u/47359?s=200&v=4"
+      alt="Apache Kafka"
+      width="40"
+      height="40"
+    />
+  </a>
+   <a href="https://camunda.com/" target="_blank">
+    <img
+      src="https://avatars.githubusercontent.com/u/2443838?s=200&v=4"
+      alt="Camunda"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.rabbitmq.com/" target="_blank">
+    <img
+      src="https://avatars.githubusercontent.com/u/96669?s=200&v=4"
+      alt="rabbitmq"
       width="40"
       height="40"
     />
