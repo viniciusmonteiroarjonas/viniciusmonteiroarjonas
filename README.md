@@ -23,7 +23,7 @@
 ## Sobre Mim <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 
-- 👨‍💻 Atualmente estou trabalhando em tempo integral na **NTT DATA**.
+- 👨‍💻 Atualmente estou trabalhando em tempo integral na **Porto Seguro**.
 - 🌱 Buscando aprender cada dia mais **AWS, Cloud, DevOps, Camunda, Kafka, Rabbitmq**.
 
 ### Linguagens e ferramentas que venho atuando
