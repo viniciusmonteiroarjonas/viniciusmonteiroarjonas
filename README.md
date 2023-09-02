@@ -24,7 +24,7 @@
 
 
 - 👨‍💻 Atualmente estou trabalhando em tempo integral na **Porto Seguro**.
-- 🌱 Buscando aprender cada dia mais **AWS, Cloud, DevOps, Camunda, Kafka, Rabbitmq**.
+- 🌱 Buscando aprender cada dia mais **AWS, Cloud, DevOps, microserviços, Kafka, Mensageira**.
 
 ### Linguagens e ferramentas que venho atuando
 
