@@ -159,4 +159,4 @@
 ### Aonde me encontrar na Web 🌎:
 
 - 💼 Conectando e compartilhando atualizações profissionais no <a href="https://www.linkedin.com/in/viniciusmonteiroarjonas">LinkedIn</a>.
-- 🐦 Me siga no <a href="https://twitter.com/arjonasmonteiro/">Twitter</a>.
+
